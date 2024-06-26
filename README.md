@@ -1,6 +1,6 @@
 Set the parameters in multibaker.py
 
-To generate execute:
+To generate:
 ```
 python3 multibaker.py
 ```
